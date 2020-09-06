@@ -1,0 +1,23 @@
+.comment-style{
+    display: flex;
+    width: 80%;
+    border: 2px solid red;
+    margin-bottom: 15px;
+    margin-left: 170px;
+}
+.comment-img-style{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 80px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+.comment-detail-style{
+    margin-top: 50px;
+    color: white;
+}
+.comment-head-style{
+    text-align: center;
+}
